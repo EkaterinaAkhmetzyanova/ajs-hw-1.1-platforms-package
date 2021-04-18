@@ -1,0 +1,19 @@
+{
+  "name": "@ekaterinaakhmetzyanova/ajs-hw-1.1-platforms-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.1-platforms-package.git"
+  },
+  "author": "Ekaterina Akhmetzyanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.1-platforms-package/issues"
+  },
+  "homepage": "https://github.com/EkaterinaAkhmetzyanova/ajs-hw-1.1-platforms-package#readme"
+}
